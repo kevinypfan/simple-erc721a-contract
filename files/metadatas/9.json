@@ -1,0 +1,11 @@
+{
+  "name": "KevinNFT#9",
+  "description": "test",
+  "image": "https://bafybeiftgtvjx5koza2sguq2vql5d27midnzlc22vgcet7sffjl7y5ep7y.ipfs.nftstorage.link/9.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "9"
+    }
+  ]
+}
